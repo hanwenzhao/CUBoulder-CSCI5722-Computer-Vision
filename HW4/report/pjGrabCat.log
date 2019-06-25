@@ -1,0 +1,536 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.3)  3 APR 2018 23:57
+entering extended mode
+**./pjGrabCat.tex
+(pjGrabCat.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count87
+\float@exts=\toks15
+\float@box=\box26
+\@float@everytoks=\toks16
+\@floatcapt=\box27
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen105
+\extrarowheight=\dimen106
+\NC@list=\toks17
+\extratabsurround=\skip43
+\backup@length=\skip44
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen107
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen108
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen109
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks19
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks20
+\eqnshift@=\dimen110
+\alignsep@=\dimen111
+\tagshift@=\dimen112
+\tagwidth@=\dimen113
+\totwidth@=\dimen114
+\lineht@=\dimen115
+\@envbody=\toks21
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
+\thm@preskip=\skip48
+\thm@postskip=\skip49
+\thm@headsep=\skip50
+\dth@everypar=\toks28
+)
+(C:\Users\LoliconMKII\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumitem.st
+y
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip51
+\enit@outerparindent=\dimen116
+\enit@toks=\toks29
+\enit@inbox=\box30
+\enitdp@description=\count100
+)
+(C:\Users\LoliconMKII\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\subcaption.s
+ty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+
+(C:\Users\LoliconMKII\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(C:\Users\LoliconMKII\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen117
+\captionmargin@=\dimen118
+\captionwidth=\dimen119
+\caption@tempdima=\dimen120
+\caption@indent=\dimen121
+\caption@parindent=\dimen122
+\caption@hangindent=\dimen123
+)
+\c@ContinuedFloat=\count101
+Package caption Info: float package is loaded.
+)
+\c@subfigure=\count102
+\c@subtable=\count103
+) (pjGrabCat.aux)
+\openout1 = `pjGrabCat.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+
+(C:\Users\LoliconMKII\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count104
+\scratchdimen=\dimen124
+\scratchbox=\box31
+\nofMPsegments=\count105
+\nofMParguments=\count106
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count107
+\MPscratchDim=\dimen125
+\MPnumerator=\count108
+\makeMPintoPDFobject=\count109
+\everyMPtoPDFconversion=\toks31
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+msa on input line 26.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 26.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 39.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 39.
+<./images/k-means_1.png, id=1, 1124.2pt x 843.15pt>
+File: ./images/k-means_1.png Graphic file (type png)
+<use ./images/k-means_1.png>
+Package pdftex.def Info: ./images/k-means_1.png  used on input line 51.
+(pdftex.def)             Requested size: 97.5pt x 73.11415pt.
+<./images/k-means_2.png, id=2, 1124.2pt x 843.15pt>
+File: ./images/k-means_2.png Graphic file (type png)
+<use ./images/k-means_2.png>
+Package pdftex.def Info: ./images/k-means_2.png  used on input line 54.
+(pdftex.def)             Requested size: 97.5pt x 73.11415pt.
+<./images/k-means_3.png, id=3, 1124.2pt x 843.15pt>
+File: ./images/k-means_3.png Graphic file (type png)
+<use ./images/k-means_3.png>
+Package pdftex.def Info: ./images/k-means_3.png  used on input line 57.
+(pdftex.def)             Requested size: 97.5pt x 73.11415pt.
+<./images/k-means_4.png, id=4, 1124.2pt x 843.15pt>
+File: ./images/k-means_4.png Graphic file (type png)
+<use ./images/k-means_4.png>
+Package pdftex.def Info: ./images/k-means_4.png  used on input line 60.
+(pdftex.def)             Requested size: 97.5pt x 73.11415pt.
+<./images/k-means_5.png, id=5, 1124.2pt x 843.15pt>
+File: ./images/k-means_5.png Graphic file (type png)
+<use ./images/k-means_5.png>
+Package pdftex.def Info: ./images/k-means_5.png  used on input line 63.
+(pdftex.def)             Requested size: 97.5pt x 73.11415pt.
+<./images/k-means_6.png, id=6, 1124.2pt x 843.15pt>
+File: ./images/k-means_6.png Graphic file (type png)
+<use ./images/k-means_6.png>
+Package pdftex.def Info: ./images/k-means_6.png  used on input line 66.
+(pdftex.def)             Requested size: 97.5pt x 73.11415pt.
+<./images/k-means_7.png, id=7, 1124.2pt x 843.15pt>
+File: ./images/k-means_7.png Graphic file (type png)
+<use ./images/k-means_7.png>
+Package pdftex.def Info: ./images/k-means_7.png  used on input line 69.
+(pdftex.def)             Requested size: 97.5pt x 73.11415pt.
+<./images/k-means_8.png, id=8, 1124.2pt x 843.15pt>
+File: ./images/k-means_8.png Graphic file (type png)
+<use ./images/k-means_8.png>
+Package pdftex.def Info: ./images/k-means_8.png  used on input line 72.
+(pdftex.def)             Requested size: 97.5pt x 73.11415pt.
+<./images/k-means_9.png, id=9, 1124.2pt x 843.15pt>
+File: ./images/k-means_9.png Graphic file (type png)
+<use ./images/k-means_9.png>
+Package pdftex.def Info: ./images/k-means_9.png  used on input line 75.
+(pdftex.def)             Requested size: 97.5pt x 73.11415pt.
+<./images/k-means_10.png, id=10, 1124.2pt x 843.15pt>
+File: ./images/k-means_10.png Graphic file (type png)
+<use ./images/k-means_10.png>
+Package pdftex.def Info: ./images/k-means_10.png  used on input line 78.
+(pdftex.def)             Requested size: 97.5pt x 73.11415pt.
+<./images/k-means_11.png, id=11, 1124.2pt x 843.15pt>
+File: ./images/k-means_11.png Graphic file (type png)
+<use ./images/k-means_11.png>
+Package pdftex.def Info: ./images/k-means_11.png  used on input line 81.
+(pdftex.def)             Requested size: 97.5pt x 73.11415pt.
+ [1
+
+{C:/Users/LoliconMKII/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<./images/ha_1.png, id=24, 1124.2pt x 843.15pt>
+File: ./images/ha_1.png Graphic file (type png)
+<use ./images/ha_1.png>
+Package pdftex.def Info: ./images/ha_1.png  used on input line 98.
+(pdftex.def)             Requested size: 117.00119pt x 87.74213pt.
+<./images/ha_2.png, id=25, 1124.2pt x 843.15pt>
+File: ./images/ha_2.png Graphic file (type png)
+<use ./images/ha_2.png>
+Package pdftex.def Info: ./images/ha_2.png  used on input line 101.
+(pdftex.def)             Requested size: 117.00119pt x 87.74213pt.
+<./images/ha_3.png, id=26, 1124.2pt x 843.15pt>
+File: ./images/ha_3.png Graphic file (type png)
+<use ./images/ha_3.png>
+Package pdftex.def Info: ./images/ha_3.png  used on input line 104.
+(pdftex.def)             Requested size: 117.00119pt x 87.74213pt.
+<./images/ha_4.png, id=27, 1124.2pt x 843.15pt>
+File: ./images/ha_4.png Graphic file (type png)
+<use ./images/ha_4.png>
+Package pdftex.def Info: ./images/ha_4.png  used on input line 107.
+(pdftex.def)             Requested size: 117.00119pt x 87.74213pt.
+<./images/ha_5.png, id=28, 1124.2pt x 843.15pt>
+File: ./images/ha_5.png Graphic file (type png)
+<use ./images/ha_5.png>
+Package pdftex.def Info: ./images/ha_5.png  used on input line 110.
+(pdftex.def)             Requested size: 117.00119pt x 87.74213pt.
+<./images/ha_6.png, id=29, 1124.2pt x 843.15pt>
+File: ./images/ha_6.png Graphic file (type png)
+<use ./images/ha_6.png>
+Package pdftex.def Info: ./images/ha_6.png  used on input line 113.
+(pdftex.def)             Requested size: 117.00119pt x 87.74213pt.
+<./images/ha_7.png, id=30, 1124.2pt x 843.15pt>
+File: ./images/ha_7.png Graphic file (type png)
+<use ./images/ha_7.png>
+Package pdftex.def Info: ./images/ha_7.png  used on input line 116.
+(pdftex.def)             Requested size: 117.00119pt x 87.74213pt.
+<./images/ha_8.png, id=31, 1124.2pt x 843.15pt>
+File: ./images/ha_8.png Graphic file (type png)
+<use ./images/ha_8.png>
+Package pdftex.def Info: ./images/ha_8.png  used on input line 119.
+(pdftex.def)             Requested size: 117.00119pt x 87.74213pt.
+<./images/ha_9.png, id=32, 1124.2pt x 843.15pt>
+File: ./images/ha_9.png Graphic file (type png)
+<use ./images/ha_9.png>
+Package pdftex.def Info: ./images/ha_9.png  used on input line 122.
+(pdftex.def)             Requested size: 117.00119pt x 87.74213pt.
+<./images/ha_10.png, id=33, 1124.2pt x 843.15pt>
+File: ./images/ha_10.png Graphic file (type png)
+<use ./images/ha_10.png>
+Package pdftex.def Info: ./images/ha_10.png  used on input line 125.
+(pdftex.def)             Requested size: 117.00119pt x 87.74213pt.
+<./images/ha_11.png, id=34, 1124.2pt x 843.15pt>
+File: ./images/ha_11.png Graphic file (type png)
+<use ./images/ha_11.png>
+Package pdftex.def Info: ./images/ha_11.png  used on input line 128.
+(pdftex.def)             Requested size: 117.00119pt x 87.74213pt.
+<./images/ha_12.png, id=35, 1124.2pt x 843.15pt>
+File: ./images/ha_12.png Graphic file (type png)
+<use ./images/ha_12.png>
+Package pdftex.def Info: ./images/ha_12.png  used on input line 131.
+(pdftex.def)             Requested size: 117.00119pt x 87.74213pt.
+ [2 <./images/k-means_1.png (PNG copy)> <./images/k-means_2.png (PNG copy)> <./
+images/k-means_3.png (PNG copy)> <./images/k-means_4.png (PNG copy)> <./images/
+k-means_5.png (PNG copy)> <./images/k-means_6.png (PNG copy)> <./images/k-means
+_7.png (PNG copy)> <./images/k-means_8.png (PNG copy)> <./images/k-means_9.png 
+(PNG copy)> <./images/k-means_10.png (PNG copy)> <./images/k-means_11.png (PNG 
+copy)>] [3 <./images/ha_1.png (PNG copy)> <./images/ha_2.png (PNG copy)> <./ima
+ges/ha_3.png (PNG copy)> <./images/ha_4.png (PNG copy)> <./images/ha_5.png (PNG
+ copy)> <./images/ha_6.png (PNG copy)> <./images/ha_7.png (PNG copy)> <./images
+/ha_8.png (PNG copy)> <./images/ha_9.png (PNG copy)> <./images/ha_10.png (PNG c
+opy)> <./images/ha_11.png (PNG copy)> <./images/ha_12.png (PNG copy)>] [4]
+<./images/seg_3_kmeans_color_true_1.png, id=48, 421.575pt x 316.18124pt>
+File: ./images/seg_3_kmeans_color_true_1.png Graphic file (type png)
+<use ./images/seg_3_kmeans_color_true_1.png>
+Package pdftex.def Info: ./images/seg_3_kmeans_color_true_1.png  used on input 
+line 168.
+(pdftex.def)             Requested size: 210.78697pt x 158.09023pt.
+Missing character: There is no ï in font cmti10!
+Missing character: There is no ¼ in font cmti10!
+Missing character: There is no š in font cmti10!
+Missing character: There is no ï in font cmti10!
+Missing character: There is no ¼ in font cmti10!
+Missing character: There is no š in font cmti10!
+<./images/seg_3_hac_color_position_true_001.png, id=49, 421.575pt x 316.18124pt
+>
+File: ./images/seg_3_hac_color_position_true_001.png Graphic file (type png)
+<use ./images/seg_3_hac_color_position_true_001.png>
+Package pdftex.def Info: ./images/seg_3_hac_color_position_true_001.png  used o
+n input line 174.
+(pdftex.def)             Requested size: 189.70699pt x 142.28024pt.
+Missing character: There is no ï in font cmti10!
+Missing character: There is no ¼ in font cmti10!
+Missing character: There is no š in font cmti10!
+Missing character: There is no ï in font cmti10!
+Missing character: There is no ¼ in font cmti10!
+Missing character: There is no š in font cmti10!
+<./images/seg_3_kmeans_color_false_1.png, id=50, 421.575pt x 316.18124pt>
+File: ./images/seg_3_kmeans_color_false_1.png Graphic file (type png)
+<use ./images/seg_3_kmeans_color_false_1.png>
+Package pdftex.def Info: ./images/seg_3_kmeans_color_false_1.png  used on input
+ line 180.
+(pdftex.def)             Requested size: 189.70699pt x 142.28024pt.
+Missing character: There is no ï in font cmti10!
+Missing character: There is no ¼ in font cmti10!
+Missing character: There is no š in font cmti10!
+Missing character: There is no ï in font cmti10!
+Missing character: There is no ¼ in font cmti10!
+Missing character: There is no š in font cmti10!
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./images/seg_3_kmeans_color_true_1_us.png, id=51, 421.575pt x 316.18124pt>
+File: ./images/seg_3_kmeans_color_true_1_us.png Graphic file (type png)
+<use ./images/seg_3_kmeans_color_true_1_us.png>
+Package pdftex.def Info: ./images/seg_3_kmeans_color_true_1_us.png  used on inp
+ut line 187.
+(pdftex.def)             Requested size: 189.70699pt x 142.28024pt.
+Missing character: There is no ï in font cmti10!
+Missing character: There is no ¼ in font cmti10!
+Missing character: There is no š in font cmti10!
+Missing character: There is no ï in font cmti10!
+Missing character: There is no ¼ in font cmti10!
+Missing character: There is no š in font cmti10!
+[5 <./images/seg_3_kmeans_color_true_1.png (PNG copy)> <./images/seg_3_hac_colo
+r_position_true_001.png (PNG copy)>]
+<./images/seg_3_kmeans_color_position_true_1_us.png, id=55, 421.575pt x 316.181
+24pt>
+File: ./images/seg_3_kmeans_color_position_true_1_us.png Graphic file (type png
+)
+<use ./images/seg_3_kmeans_color_position_true_1_us.png>
+Package pdftex.def Info: ./images/seg_3_kmeans_color_position_true_1_us.png  us
+ed on input line 193.
+(pdftex.def)             Requested size: 189.70699pt x 142.28024pt.
+Missing character: There is no ï in font cmti10!
+Missing character: There is no ¼ in font cmti10!
+Missing character: There is no š in font cmti10!
+Missing character: There is no ï in font cmti10!
+Missing character: There is no ¼ in font cmti10!
+Missing character: There is no š in font cmti10!
+
+Underfull \hbox (badness 1237) in paragraph at lines 194--194
+[]\OT1/cmr/m/it/10.95 Figure 7: |Seg-men-ta-tion K-Means, k=3, Color and Po-si-
+tion Fea-ture, Un-
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./images/seg_3_kmeans_color_position_true_1_us_2.png, id=56, 421.575pt x 316.1
+8124pt>
+File: ./images/seg_3_kmeans_color_position_true_1_us_2.png Graphic file (type p
+ng)
+<use ./images/seg_3_kmeans_color_position_true_1_us_2.png>
+Package pdftex.def Info: ./images/seg_3_kmeans_color_position_true_1_us_2.png  
+used on input line 199.
+(pdftex.def)             Requested size: 189.70699pt x 142.28024pt.
+Missing character: There is no ï in font cmti10!
+Missing character: There is no ¼ in font cmti10!
+Missing character: There is no š in font cmti10!
+Missing character: There is no ï in font cmti10!
+Missing character: There is no ¼ in font cmti10!
+Missing character: There is no š in font cmti10!
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6 <./images/seg_3_kmeans_color_false_1.png (PNG copy)> <./images/seg_3_kmeans_
+color_true_1_us.png (PNG copy)>]
+<./images/grabcat1.png, id=60, 421.575pt x 316.18124pt>
+File: ./images/grabcat1.png Graphic file (type png)
+<use ./images/grabcat1.png>
+Package pdftex.def Info: ./images/grabcat1.png  used on input line 211.
+(pdftex.def)             Requested size: 189.70699pt x 142.28024pt.
+ [7 <./images/seg_3_kmeans_color_position_true_1_us.png (PNG copy)> <./images/s
+eg_3_kmeans_color_position_true_1_us_2.png (PNG copy)>]
+<./images/grabcat2.png, id=65, 421.575pt x 316.18124pt>
+File: ./images/grabcat2.png Graphic file (type png)
+<use ./images/grabcat2.png>
+Package pdftex.def Info: ./images/grabcat2.png  used on input line 217.
+(pdftex.def)             Requested size: 189.70699pt x 142.28024pt.
+ [8 <./images/grabcat1.png (PNG copy)> <./images/grabcat2.png (PNG copy)>] [9] 
+(pjGrabCat.aux) ) 
+Here is how much of TeX's memory you used:
+ 3878 strings out of 493305
+ 60441 string characters out of 3138857
+ 121585 words of memory out of 3000000
+ 7348 multiletter control sequences out of 15000+200000
+ 13357 words of font info for 51 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,9n,40p,553b,383s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+bx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+msy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pf
+b>
+Output written on pjGrabCat.pdf (9 pages, 2076753 bytes).
+PDF statistics:
+ 107 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 156 words of extra memory for PDF output out of 10000 (max. 10000000)
+

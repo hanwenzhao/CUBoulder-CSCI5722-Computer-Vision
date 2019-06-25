@@ -1,0 +1,6 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: hw5.aux
+The style file: unsrt.bst
+Database file #1: cite.bib
+Name 1 in "Alex Krizhevsky ,Ilya Sutskever, and Geoffrey E. Hinton" has a comma at the end for entry alexnet
+while executing---line 944 of file unsrt.bst
+(There was 1 error message)
